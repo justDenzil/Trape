@@ -27,7 +27,7 @@ class utils:
     # Simplification print
     @staticmethod
     def Go(string):
-        print (string)
+        print (string) # python3 compatible #
 
     # All color for design terminal UI
     Color = {
